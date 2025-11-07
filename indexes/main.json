@@ -7,25 +7,74 @@
   "nongs": {
     "hosted": {
       "4d67f36c-1f10-4e31-b0da-a9f03e126f01": {
-        "name": "Are You Ready",
+        "name": "Are You Ready (GD:R Cut)",
         "artist": "Shirobon",
         "startOffset": 0,
         "url": "https://audio.jukehost.co.uk/2mPhNjbs9LYQgqw7YtXEBdduCqUj7a5j",
         "songs": [10007300]
       },
       "2437e51a-13e0-4d13-8ea4-dab88fdcfe00": {
-        "name": "Checkpoint",
+        "name": "Checkpoint (GD:R Cut)",
         "artist": "F-777",
         "startOffset": 0,
         "url": "https://audio.jukehost.co.uk/7mSJWeweC5RIeKt0UlBOCzeGX5KqXjDA",
         "songs": [10009160]
       },
       "8b1cb65c-4f8f-4a29-b6b3-b1f60158bc35": {
-        "name": "Perfect Machine",
+        "name": "Perfect Machine (GD:R Cut)",
         "artist": "Shirobon",
         "startOffset": 0,
         "url": "https://audio.jukehost.co.uk/Gwv12CQ5s8JAztpGLsaE6yruIcHE7oh7",
         "songs": [10007292]
+      },
+      "df857e59-f16a-4e35-a198-3a04868ce40b": {
+        "name": "Active (GD:R Cut)",
+        "artist": "DJVI",
+        "startOffset": 0,
+        "url": "https://audio.jukehost.co.uk/EHf3SN5hpjBGmTNgtZBBdiEVU1eC8LGJ",
+        "songs": [334244]
+      },
+      "645648bf-5624-42c4-9056-d2f20bc5c065": {
+        "name": "Angels (GD:R Cut)",
+        "artist": "DJVI",
+        "startOffset": 0,
+        "url": "https://audio.jukehost.co.uk/wY88N8RgiYITzxCaLkLLolJaNQ6ulw9Y",
+        "songs": [680967]
+      },
+      "f765e82d-19d5-41d8-843e-2d33ffd7e15b": {
+        "name": "Regain Control (GD:R Cut)",
+        "artist": "Shirobon",
+        "startOffset": 0,
+        "url": "https://audio.jukehost.co.uk/jOTAo7Z1cVyHnk15HT1olh3C3fkckfgw",
+        "songs": [1132154]
+      },
+      "fe0bb712-a5b8-4854-b0db-0855d379141b": {
+        "name": "Jumper 2 (GD:R Cut)",
+        "artist": "Waterflame",
+        "startOffset": 0,
+        "url": "https://audio.jukehost.co.uk/iUeAj4DhZoQEMPBLFTOw3aVAgvFqZ6vh",
+        "songs": [858309]
+      },
+      "2c012c61-1a5f-4716-bbc2-7d2d6ea50f1c": {
+        "name": "Striker (GD:R Cut)",
+        "artist": "Waterflame",
+        "startOffset": 0,
+        "url": "https://audio.jukehost.co.uk/XpmCSNCy4yVhVGyOYCRCf9t3uUIBSTZu",
+        "songs": [711933]
+      },
+      "147afca6-9254-447d-bd79-d918ac7da56c": {
+        "name": "Recycles (GD:R Cut)",
+        "artist": "DJVI",
+        "startOffset": 0,
+        "url": "https://audio.jukehost.co.uk/VDDL5WBTsYjh9B7E1R2Viwzf4E1xornv",
+        "songs": [1203124]
+      },
+      "bf80ab95-b439-4cb1-a087-727ef8af582a": {
+        "name": "Final Smash (GD:R Cut)",
+        "artist": "MDK, Neowing",
+        "startOffset": 0,
+        "url": "https://audio.jukehost.co.uk/UhqPYDwRdCF9oecXKdkU8a3G3d3wpNTR",
+        "songs": [10007214]
       }
     }
   }
