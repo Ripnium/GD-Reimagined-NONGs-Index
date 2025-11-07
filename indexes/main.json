@@ -1,23 +1,32 @@
-[
-  {
-    "name": "Are You Ready",
-    "artist": "Shirobon",
-    "songID": 10007300,
-    "source": "host",
-    "url": "https://audio.jukehost.co.uk/2mPhNjbs9LYQgqw7YtXEBdduCqUj7a5j"
-  },
-  {
-    "name": "Checkpoint",
-    "artist": "F-777",
-    "songID": 10009160,
-    "source": "host",
-    "url": "https://audio.jukehost.co.uk/7mSJWeweC5RIeKt0UlBOCzeGX5KqXjDA"
-  },
-  {
-    "name": "Perfect Machine",
-    "artist": "Shirobon",
-    "songID": 10007292,
-    "source": "host",
-    "url": "https://audio.jukehost.co.uk/Gwv12CQ5s8JAztpGLsaE6yruIcHE7oh7"
+{
+  "manifest": 1,
+  "name": "GD: Reimagined Index",
+  "id": "gdr-nong-index",
+  "description": "Custom trimmed tracks hosted on JukeHost",
+  "lastUpdate": 1752000000,
+  "nongs": {
+    "hosted": {
+      "4d67f36c-1f10-4e31-b0da-a9f03e126f01": {
+        "name": "Are You Ready",
+        "artist": "Shirobon",
+        "startOffset": 0,
+        "url": "https://audio.jukehost.co.uk/2mPhNjbs9LYQgqw7YtXEBdduCqUj7a5j",
+        "songs": [119353774]
+      },
+      "2437e51a-13e0-4d13-8ea4-dab88fdcfe00": {
+        "name": "Checkpoint",
+        "artist": "F-777",
+        "startOffset": 0,
+        "url": "https://audio.jukehost.co.uk/7mSJWeweC5RIeKt0UlBOCzeGX5KqXjDA",
+        "songs": [119353776]
+      },
+      "8b1cb65c-4f8f-4a29-b6b3-b1f60158bc35": {
+        "name": "Perfect Machine",
+        "artist": "Shirobon",
+        "startOffset": 0,
+        "url": "https://audio.jukehost.co.uk/Gwv12CQ5s8JAztpGLsaE6yruIcHE7oh7",
+        "songs": [119353780]
+      }
+    }
   }
-]
+}
