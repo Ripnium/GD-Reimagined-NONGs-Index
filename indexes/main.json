@@ -1,6 +1,6 @@
 {
   "manifest": 1,
-  "name": "GD: Reimagined Index",
+  "name": "GD Reimagined Index",
   "id": "gdr-nong-index",
   "description": "Custom trimmed tracks hosted on JukeHost",
   "lastUpdate": 1752000000,
@@ -75,6 +75,13 @@
         "startOffset": 0,
         "url": "https://audio.jukehost.co.uk/UhqPYDwRdCF9oecXKdkU8a3G3d3wpNTR",
         "songs": [10007214]
+      },
+      "7870558a-81b7-4af9-8aba-767fd66204a6": {
+        "name": "Final Battle (GD:R Cut)",
+        "artist": "Waterflame",
+        "startOffset": 0,
+        "url": "https://audio.jukehost.co.uk/iTZxb7lTCHJLX7aKKIMk2Eczusur4JAe",
+        "songs": [598349]
       },
       "56afb78d-6a60-4f79-9ed4-726c10a08ad4": {
         "name": "Viper (GD:R Cut)",
