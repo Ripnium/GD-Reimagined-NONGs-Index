@@ -1,9 +1,9 @@
 {
-  "manifest": 1,
+  "manifest": 2,
   "name": "GD Reimagined Index",
   "id": "gdr-nong-index",
   "description": "Custom trimmed tracks hosted on JukeHost",
-  "lastUpdate": 1752000000,
+  "lastUpdate": 1752000001,
   "nongs": {
     "hosted": {
       "4d67f36c-1f10-4e31-b0da-a9f03e126f01": {
