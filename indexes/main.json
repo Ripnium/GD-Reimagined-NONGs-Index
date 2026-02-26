@@ -4,6 +4,11 @@
   "id": "gdr-nong-index",
   "description": "Custom trimmed tracks hosted on JukeHost",
   "lastUpdate": 1772062961,
+  "features": {
+    "submit": {
+      "supportedSongTypes": ["hosted"]
+    }
+  },
   "nongs": {
     "hosted": {
       "4d67f36c-1f10-4e31-b0da-a9f03e126f01": {
